@@ -1,0 +1,19 @@
+.img{
+    position: relative;
+}
+.img span{
+    position: absolute;
+    top:0;
+    left: 0;
+    background: yellow;
+    width: 30%;
+    text-align: center;    
+    
+}
+
+
+
+
+
+
+
